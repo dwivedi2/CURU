@@ -1,4 +1,4 @@
 # CURU
 this project is related to crud opration
 <br>
-Author - Ankit Dwivedi
+Author - Ankit Dwivedi(hello)
